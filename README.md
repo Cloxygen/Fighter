@@ -1,0 +1,2 @@
+# Fighter
+OSBot fighting script
